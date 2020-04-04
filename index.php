@@ -1,3 +1,3 @@
 <?php
-echo date('l jS \of F Y h:i:s A');
-echo "Р"
+echo date('l jS of F Y h:i:s A');
+echo ' Рудопысов И.А.';
